@@ -1,0 +1,21 @@
+User ID,Device Model,Operating System,App Usage Time (min/day),Screen On Time (hours/day),Battery Drain (mAh/day),Number of Apps Installed,Data Usage (MB/day),Age,Gender,Is Active
+1,Google Pixel 5,Android,393,6.4,1872,67,1122,40,Male,True
+2,OnePlus 9,Android,268,4.7,1331,42,944,47,Female,True
+3,Xiaomi Mi 11,Android,154,4.0,761,32,322,42,Male,False
+4,Google Pixel 5,Android,239,4.8,1676,56,871,20,Male,True
+5,iPhone 12,iOS,187,4.3,1367,58,988,31,Female,False
+6,Google Pixel 5,Android,99,2.0,940,35,564,31,Male,False
+7,Samsung Galaxy S21,Android,350,7.3,1802,66,1054,21,Female,True
+8,OnePlus 9,Android,543,11.4,2956,82,1702,31,Male,True
+9,Samsung Galaxy S21,Android,340,7.7,2138,75,1053,42,Female,True
+10,iPhone 12,iOS,424,6.6,1957,75,1301,42,Male,True
+11,Google Pixel 5,Android,53,1.4,435,17,162,34,Female,False
+12,OnePlus 9,Android,215,5.5,1690,47,641,24,Male,True
+13,OnePlus 9,Android,462,6.2,2303,65,1099,57,Female,True
+14,Xiaomi Mi 11,Android,215,4.9,1662,43,857,43,Male,True
+15,iPhone 12,iOS,189,5.4,1754,53,779,49,Female,False
+16,Google Pixel 5,Android,503,10.4,2571,84,2025,39,Female,True
+17,OnePlus 9,Android,132,3.6,628,32,344,47,Female,False
+18,iPhone 12,iOS,299,5.8,1431,41,985,44,Female,True
+19,Google Pixel 5,Android,81,1.4,558,16,297,26,Female,False
+20,iPhone 12,iOS,577,8.5,2774,89,2192,29,Female,True
